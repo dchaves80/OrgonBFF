@@ -1,0 +1,12 @@
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\bin\Debug\net6.0\OrgonClass.deps.json
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\bin\Debug\net6.0\OrgonClass.dll
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\bin\Debug\net6.0\OrgonClass.pdb
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\OrgonClass.csproj.AssemblyReference.cache
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\OrgonClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\OrgonClass.AssemblyInfoInputs.cache
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\OrgonClass.AssemblyInfo.cs
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\OrgonClass.csproj.CoreCompileInputs.cache
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\OrgonClass.dll
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\refint\OrgonClass.dll
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\OrgonClass.pdb
+C:\Users\SHIFTA-0151\source\repos\ProjectOrgon\OrgonClass\obj\Debug\net6.0\ref\OrgonClass.dll
